@@ -94,9 +94,9 @@
 		A312F8392A1E824700C9B3A5 /* UnitConversion */ = {
 			isa = PBXGroup;
 			children = (
-				A312F83A2A1E824700C9B3A5 /* UnitConversionApp.swift */,
-				A312F83C2A1E824700C9B3A5 /* ContentView.swift */,
-				A312F83E2A1E824800C9B3A5 /* Assets.xcassets */,
+				A312F8662A1E82A200C9B3A5 /* Initials */,
+				A312F8642A1E828200C9B3A5 /* Views */,
+				A312F8652A1E829900C9B3A5 /* Assets */,
 				A312F8402A1E824800C9B3A5 /* Preview Content */,
 			);
 			path = UnitConversion;
@@ -125,6 +125,30 @@
 				A312F8572A1E824800C9B3A5 /* UnitConversionUITestsLaunchTests.swift */,
 			);
 			path = UnitConversionUITests;
+			sourceTree = "<group>";
+		};
+		A312F8642A1E828200C9B3A5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A312F83C2A1E824700C9B3A5 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A312F8652A1E829900C9B3A5 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				A312F83E2A1E824800C9B3A5 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		A312F8662A1E82A200C9B3A5 /* Initials */ = {
+			isa = PBXGroup;
+			children = (
+				A312F83A2A1E824700C9B3A5 /* UnitConversionApp.swift */,
+			);
+			path = Initials;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
